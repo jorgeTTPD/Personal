@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/05/07 18:02:37.000.875,=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2026/05/07 18:22:57.000.789,=C:\Users\HP\Desktop\FisicaLoboratorio\gagampe.mp3</Transaction>
+    <Transaction>2026/05/07 18:25:22.000.945,C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\HP\Documents\Embarcadero\Studio\Projects\gagap.pas</Transaction>
+    <Transaction>2026/05/07 18:25:22.000.945,C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\HP\Documents\Embarcadero\Studio\Projects\gagap.dfm</Transaction>
+    <Transaction>2026/05/07 18:25:30.000.553,C:\Users\HP\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\HP\Documents\Embarcadero\Studio\Projects\gagaproject.dproj</Transaction>
+    <Transaction>2026/05/10 21:02:13.332,C:\Users\HP\Desktop\delphiProject\Bpombardero\Bombproject.dproj=C:\Users\HP\Documents\Embarcadero\Studio\Projects\gagaproject.dproj</Transaction>
+    <Transaction>2026/05/10 21:02:39.519,C:\Users\HP\Desktop\delphiProject\Bpombardero\bombSight.pas=C:\Users\HP\Documents\Embarcadero\Studio\Projects\gagap.pas</Transaction>
+    <Transaction>2026/05/10 21:02:39.519,C:\Users\HP\Desktop\delphiProject\Bpombardero\bombSight.dfm=C:\Users\HP\Documents\Embarcadero\Studio\Projects\gagap.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
