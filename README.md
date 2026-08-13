@@ -3,7 +3,7 @@
 *My first complete program in Delphi 12 — a WhatsApp message bomber.*
 **Mi primer programa completo en Delphi 12: un bombardero de mensajes para WhatsApp.**
 
-![Captura de pantalla](Captura%20de%20pantalla%202026-08-12%20174134.png)
+<img src="Captura%20de%20pantalla%202026-08-12%20174134.png" alt="Captura de pantalla" width="600">
 
 ## 📖 ¿Qué hace? · *What it does*
 
